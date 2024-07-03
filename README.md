@@ -1,5 +1,5 @@
 # work_experience
 
-This is a work exprience project with my first GIT repository.
+This is a work experience project with my first GIT repository.
 
-Re:updated x 2  e
+Re:updated
